@@ -19,7 +19,7 @@ class SplashScreen extends GetView<SplashController> {
               children:  [
                 Image.asset(ImagePath.profileLogo, scale: 1,),
                 const SizedBox(height: 10,),
-                Text("welcome To Ecommerce App",style:  CustomTextStyle.buttonText)
+                Text("welcome To Our App",style:  CustomTextStyle.buttonText)
               ],
             ),
       ),)
